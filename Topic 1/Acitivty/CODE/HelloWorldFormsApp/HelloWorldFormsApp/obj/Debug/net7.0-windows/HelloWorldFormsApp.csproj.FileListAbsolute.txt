@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.Form1.resources
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.exe
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.deps.json
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.dll
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.pdb
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.dll
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\refint\HelloWorldFormsApp.dll
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.pdb
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net7.0-windows\ref\HelloWorldFormsApp.dll

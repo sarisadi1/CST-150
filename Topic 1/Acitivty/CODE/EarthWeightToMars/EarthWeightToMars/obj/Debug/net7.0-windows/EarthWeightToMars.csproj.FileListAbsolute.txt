@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\bin\Debug\net7.0-windows\EarthWeightToMars.exe
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\bin\Debug\net7.0-windows\EarthWeightToMars.deps.json
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\bin\Debug\net7.0-windows\EarthWeightToMars.runtimeconfig.json
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\bin\Debug\net7.0-windows\EarthWeightToMars.dll
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\bin\Debug\net7.0-windows\EarthWeightToMars.pdb
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.Form1.resources
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.dll
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\refint\EarthWeightToMars.dll
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.pdb
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\EarthWeightToMars.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\EarthWeightToMars\EarthWeightToMars\obj\Debug\net7.0-windows\ref\EarthWeightToMars.dll
